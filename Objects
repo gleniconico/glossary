@@ -1,0 +1,17 @@
+Objects:
+
+In JavaScript, almost "everything" is an object.
+
+Booleans can be objects (or primitive data treated as objects)
+Numbers can be objects (or primitive data treated as objects)
+Strings can be objects (or primitive data treated as objects)
+Dates are always objects
+Maths are always objects
+Regular expressions are always objects
+Arrays are always objects
+Functions are always objects
+Objects are objects
+
+In JavaScript, all values, except primitive values, are objects.
+
+Primitive values are: strings ("John Doe"), numbers (3.14), true, false, null, and undefined.  
